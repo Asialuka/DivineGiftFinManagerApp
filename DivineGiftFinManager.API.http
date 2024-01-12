@@ -1,0 +1,6 @@
+@DivineGiftFinManager.API_HostAddress = http://localhost:5201
+
+GET {{DivineGiftFinManager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
